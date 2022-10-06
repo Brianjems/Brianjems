@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **REACT** 
 
-- 👨‍💻 All of my projects are available at [https://brianjems.github.io/myyporftolio.github.io/](https://brianjems.github.io/myyporftolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://brianjems.github.io/myyporftolio.github.io/)
 
 - 💬 Ask me about **HTML,CSS, Javascript**
 
